@@ -96,7 +96,8 @@ public class Level1 {
 	                if (c != null) 
 	                {
 	                    c.setNext(null);
-	                } else 
+	                } 
+			else 
 	                {
 	                    a = null;
 	                }
